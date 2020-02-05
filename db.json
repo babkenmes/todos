@@ -1,11 +1,16 @@
 {
-  "posts": [
+  "todos": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "This is my first ToDo"
+    },
+    {
+      "id": 2,
+      "title": "Go to work"
+    },
+    {
+      "id": 3,
+      "title": "Call to Trump"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
