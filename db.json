@@ -2,15 +2,18 @@
   "todos": [
     {
       "id": 1,
-      "title": "This is my first ToDo"
+      "title": "This is my first ToDo",
+      "done":false
     },
     {
       "id": 2,
       "title": "Go to work"
+      "done":true
     },
     {
       "id": 3,
-      "title": "Call to Trump"
+      "title": "Call to Trump",
+      "done":false
     }
   ]
 }
